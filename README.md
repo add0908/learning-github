@@ -7,3 +7,8 @@ Hello! My name is Praptika. I am learning GitHub.
 - I like technology
 - I want to learn coding
 - This is my first repository
+
+## Goals
+- Leadr Git
+- understand Git
+- Build a personal project
